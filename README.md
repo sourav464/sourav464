@@ -1,6 +1,6 @@
 ### Hi I'm Sourav Nayak👋
  - 🔭 I’m currently working as Freelancer
-- 🌱 I’m currently learning Java script 
+- 🌱 I’m currently learning React js 
 - 💬 Ask me about Life & Technology
  
  ## ✍️ Languages,Frameworks ❤️
